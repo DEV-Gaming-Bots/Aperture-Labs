@@ -15,6 +15,10 @@
 *.vmdl_c
 *.generated.*
 *.vsnd_c
+*.vmat_c
+# *.sndscape_c
+*.vpcf_c
+# *.sound_c
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -402,3 +406,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+*.vmat_c

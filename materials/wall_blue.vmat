@@ -2,7 +2,7 @@
 
 Layer0
 {
-	shader "simple.vfx"
+	shader "simple.shader"
 
 	//---- Color ----
 	g_flModelTintAmount "1.000"
@@ -23,10 +23,10 @@ Layer0
 	g_flMetalness "0.000"
 
 	//---- Normal ----
-	TextureNormal "materials/raw/concrete_modular_wall001a_normal.jpg"
+	TextureNormal "materials/raw/wall_normal.png"
 
 	//---- Roughness ----
-	TextureRoughness "[1.000000 1.000000 1.000000 0.000000]"
+	TextureRoughness "[0.250000 0.250000 0.250000 0.000000]"
 
 	//---- Texture Coordinates ----
 	g_nScaleTexCoordUByModelScaleAxis "0"

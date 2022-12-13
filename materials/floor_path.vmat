@@ -2,12 +2,12 @@
 
 Layer0
 {
-	shader "simple.vfx"
+	shader "simple.shader"
 
 	//---- Color ----
 	g_flModelTintAmount "1.000"
 	g_vColorTint "[0.984314 0.686275 0.349020 0.000000]"
-	TextureColor "materials/raw/concrete_modular_floor001a.jpg"
+	TextureColor "materials/raw/concrete_modular_floor001b.jpg"
 
 	//---- Fade ----
 	g_flFadeExponent "1.000"
@@ -23,10 +23,10 @@ Layer0
 	g_flMetalness "0.000"
 
 	//---- Normal ----
-	TextureNormal "materials/default/default_normal.tga"
+	TextureNormal "materials/raw/portaltile_normal.png"
 
 	//---- Roughness ----
-	TextureRoughness "[1.000000 1.000000 1.000000 0.000000]"
+	TextureRoughness "[0.500000 0.500000 0.500000 0.000000]"
 
 	//---- Texture Coordinates ----
 	g_nScaleTexCoordUByModelScaleAxis "0"
