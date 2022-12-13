@@ -26,7 +26,7 @@ Layer0
 	g_flDirectionalLightmapStrength "1.000"
 
 	//---- Metalness ----
-	TextureMetalness "[0.329000 0.329000 0.329000 0.000000]"
+	TextureMetalness "[0.000000 0.000000 0.000000 0.000000]"
 
 	//---- Normal ----
 	TextureNormal "materials/raw/door_01_normal.jpg"
