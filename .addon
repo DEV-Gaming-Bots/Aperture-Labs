@@ -1,7 +1,7 @@
 {
   "Title": "Aperture Lab",
   "Type": "map",
-  "Org": "local",
+  "Org": "devbots",
   "Ident": "aperturelab",
   "Tags": "",
   "Schema": 1,
@@ -15,6 +15,9 @@
     "GameSupport": [
       "rifter.castletd",
       "devbots.castletd"
-    ]
+    ],
+    "Summary": "",
+    "Description": "An laboratory set in the Aperture facility",
+    "Public": true
   }
 }
