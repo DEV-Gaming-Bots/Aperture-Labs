@@ -1,7 +1,7 @@
 {
   "Title": "Aperture Lab",
   "Type": "map",
-  "Org": "devbots",
+  "Org": "local",
   "Ident": "aperturelab",
   "Tags": "",
   "Schema": 1,
@@ -10,7 +10,6 @@
   "ResourcePaths": null,
   "HasCode": false,
   "CodePath": null,
-  "RootNamespace": null,
   "Metadata": {
     "ProjectTemplate": null,
     "GameSupport": [
