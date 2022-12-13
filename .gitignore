@@ -16,6 +16,9 @@
 *.generated.*
 *.vsnd_c
 *.vmat_c
+# *.sndscape_c
+*.vpcf_c
+# *.sound_c
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
